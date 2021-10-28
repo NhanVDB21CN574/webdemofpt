@@ -326,7 +326,7 @@ header{
     margin:20px 12px 0 0;
 }
 .contact{
-    background-image: url("/image/bg1.jpg");
+    background-image: url("image/bg1.jpg");
     background-position: center;
     background-repeat: no-repeat;
     padding:100px 0;
