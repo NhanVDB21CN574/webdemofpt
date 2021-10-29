@@ -416,6 +416,7 @@ header{
     }
     .header-top>i{
         display:block;
+        width:32px;
     }
     .header-top ul>i{
         display:block;
